@@ -1,15 +1,15 @@
 {
-  "files": {
-    "main.css": "/static/css/main.78a00949.css",
-    "main.js": "/static/js/main.338a729f.js",
-    "static/js/787.98651143.chunk.js": "/static/js/787.98651143.chunk.js",
-    "index.html": "/index.html",
-    "main.78a00949.css.map": "/static/css/main.78a00949.css.map",
-    "main.338a729f.js.map": "/static/js/main.338a729f.js.map",
-    "787.98651143.chunk.js.map": "/static/js/787.98651143.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.78a00949.css",
-    "static/js/main.338a729f.js"
-  ]
+  "main.css": "/chatgpt-test/static/css/main.676274e2.chunk.css",
+  "main.js": "/chatgpt-test/static/js/main.7c384f7b.chunk.js",
+  "main.js.map": "/chatgpt-test/static/js/main.7c384f7b.chunk.js.map",
+  "static/js/1.927bd4ba.chunk.js": "/chatgpt-test/static/js/1.927bd4ba.chunk.js",
+  "static/js/1.927bd4ba.chunk.js.map": "/chatgpt-test/static/js/1.927bd4ba.chunk.js.map",
+  "static/js/2.11a3eb75.chunk.js": "/chatgpt-test/static/js/2.11a3eb75.chunk.js",
+  "static/js/2.11a3eb75.chunk.js.map": "/chatgpt-test/static/js/2.11a3eb75.chunk.js.map",
+  "runtime~main.js": "/chatgpt-test/static/js/runtime~main.76ce6550.js",
+  "runtime~main.js.map": "/chatgpt-test/static/js/runtime~main.76ce6550.js.map",
+  "static/css/main.676274e2.chunk.css.map": "/chatgpt-test/static/css/main.676274e2.chunk.css.map",
+  "index.html": "/chatgpt-test/index.html",
+  "precache-manifest.e89dc45e44d0c9214078adec0bd30de0.js": "/chatgpt-test/precache-manifest.e89dc45e44d0c9214078adec0bd30de0.js",
+  "service-worker.js": "/chatgpt-test/service-worker.js"
 }
